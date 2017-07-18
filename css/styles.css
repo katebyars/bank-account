@@ -1,0 +1,39 @@
+body {
+  background-image: url("../img/money.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+.jumbotron {
+  background: lightblue;
+  color: white;
+  font-size: 500px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+  border: 2px solid gray;
+}
+.balanceArea {
+  width: 200px;
+  height: 100px;
+  border: 2px solid black;
+  background-color: white;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+.panel {
+  background-color: lightblue;
+  border: 1px;
+  border-color: gray;
+  text-align: center;
+}
+.balanceArea {
+  text-align: center;
+  font-size: 25px;
+  padding-top: 25px;
+  font-family: sans-serif;
+}
